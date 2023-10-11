@@ -9,7 +9,7 @@ public class Main {
     } else if (a == 6) {
         System.out.println("89");
     } else {
-        System.out.println("ПИЗДЕЦ");
+        System.out.println("ПИЗДЦ");
     }
 
     }
